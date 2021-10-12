@@ -212,6 +212,13 @@ form {
   font-size: 1.5em;
   
 }
+#input-age-verification {
+  display: block;
+}
+
+input[type="checkbox"] + label {
+  display: inline;
+}
 
 /* ===== STATE STYLES ======= */
 
