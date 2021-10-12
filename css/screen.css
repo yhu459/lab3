@@ -236,7 +236,8 @@ label {
 h1{
   background-color: #000000;
   color: white;
-  padding: 2em 0 2em 0;
+  padding: 1em 0 1em 0;
+  font-size: 2em;
 }
 
 p {
