@@ -207,5 +207,11 @@ body {
   background-color: #b3b3b3;
 }
 
+form {
+  text-align: center;
+  font-size: 1.5em;
+  
+}
+
 /* ===== STATE STYLES ======= */
 
