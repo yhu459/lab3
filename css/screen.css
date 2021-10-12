@@ -227,7 +227,7 @@ li {
 }
 
 #submit {
-  background-color: #f0f0f0;
+  background-color: #ffffff;
   border: none;
 }
 label {
@@ -236,12 +236,13 @@ label {
 
 h1{
   background-color: #000000;
-  color: white;
+  color: rgb(255, 255, 255);
   padding: 1em 0 1em 0;
   font-size: 2em;
 }
 
 p {
+  font-size: 1em;
   margin: 0 auto;
   width: 80%;
   padding-top: 1em;
@@ -255,11 +256,12 @@ p {
   width: 80%;
   border: none;
   padding: 0.5em 0 0.5em 0;
+  background-color: rgb(201, 201, 201);
 }
 
 #submit {
   width: 95%;
-  padding: 0.75em;
+  padding: 1em;
 }
 /* ===== STATE STYLES ======= */
 
