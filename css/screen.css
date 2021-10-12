@@ -219,6 +219,31 @@ form {
 input[type="checkbox"] + label {
   display: inline;
 }
+li {
+  padding-top: 0.5em;
+  padding-bottom: 0.5em;
+}
 
+input {
+  background-color: #e4e4e4;
+  border: none;
+}
+label {
+  padding-bottom: 0.5em;
+}
+h1{
+  background-color: #000000;
+  color: white;
+  padding: 1em 0 1em 0;
+}
+
+p {
+  padding-top: 0.5em;
+}
+
+#submit {
+  width: 95%;
+  padding: 0.75em;
+}
 /* ===== STATE STYLES ======= */
 
