@@ -204,7 +204,7 @@ label {
 
 /* ===== LAYOUT STYLES ====== */
 body {
-  background-color: #b3b3b3;
+  background-color: #d8d7d7;
 }
 
 form {
@@ -224,13 +224,14 @@ li {
   padding-bottom: 0.5em;
 }
 
-input {
-  background-color: #e4e4e4;
+#submit {
+  background-color: #f0f0f0;
   border: none;
 }
 label {
-  padding-bottom: 0.5em;
+  padding-bottom: 0.25em;
 }
+
 h1{
   background-color: #000000;
   color: white;
@@ -239,6 +240,15 @@ h1{
 
 p {
   padding-top: 0.5em;
+  padding-bottom: 0.5em;
+  margin-top: 0.75em;
+  margin-bottom: 0.75em;
+  background-color: rgb(255, 255, 255);
+}
+
+#email {
+  width: 80%;
+  padding: em;
 }
 
 #submit {
