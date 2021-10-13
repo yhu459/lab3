@@ -264,5 +264,9 @@ p {
   width: 100%;
   padding: 1em;
 }
+
+ol {
+  background-color: rgb(196, 196, 196);
+}
 /* ===== STATE STYLES ======= */
 
