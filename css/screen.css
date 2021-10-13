@@ -235,11 +235,11 @@ label {
 }
 
 h1{
-  background-color: #000000;
-  color: rgb(255, 255, 255);
+  background-color: #757575;
   padding: 1em 0 1em 0;
   font-size: 2em;
   line-height: 1em;
+  border: 1px solid black;
 }
 
 p {
