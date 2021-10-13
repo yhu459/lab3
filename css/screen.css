@@ -268,5 +268,13 @@ p {
 ol {
   background-color: rgb(196, 196, 196);
 }
+
 /* ===== STATE STYLES ======= */
 
+.hasjs #email {
+  border: 1px solid rgb(110, 110, 110);
+}
+
+.hasjs #submit {
+  border: 1px solid rgb(119, 118, 118);
+}
