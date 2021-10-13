@@ -254,14 +254,14 @@ p {
 }
 
 #email {
-  width: 80%;
+  width: 100%;
   border: none;
   padding: 0.5em 0 0.5em 0;
   background-color: rgb(201, 201, 201);
 }
 
 #submit {
-  width: 95%;
+  width: 100%;
   padding: 1em;
 }
 /* ===== STATE STYLES ======= */
