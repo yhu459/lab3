@@ -254,14 +254,14 @@ p {
 }
 
 #email {
-  width: 100%;
+  width: 95%;
   border: none;
   padding: 0.5em 0 0.5em 0;
   background-color: rgb(201, 201, 201);
 }
 
 #submit {
-  width: 100%;
+  width: 95%;
   padding: 1em;
 }
 
